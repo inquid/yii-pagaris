@@ -1,7 +1,6 @@
 <?php
 
-namespace \inquid\pagaris;
-
+namespace inquid\pagaris;
 
 use inquid\pagaris\models\Error;
 use yii\base\Component;
@@ -16,7 +15,7 @@ use yii\httpclient\Client;
 class HttpClientV3 extends Component
 {
     public $API_VERSION = 'api/v1';
-    const URL_FACTURACOM = 'https://pagaris.com/';
+    const URL_PAGARIS = 'https://pagaris.com';
 
     private $_options = [
         CURLOPT_RETURNTRANSFER => true,
@@ -40,7 +39,7 @@ class HttpClientV3 extends Component
      */
     protected function sendRequest($method, $path, $data = null)
     {
-        $client = new Client(['baseUrl' => self::URL_FACTURACOM . '/' . $path]);
+        $client = new Client(['baseUrl' => self::URL_PAGARIS . '/' . $path]);
         $request = $client->createRequest();
 
         if ($data) {
@@ -60,7 +59,7 @@ class HttpClientV3 extends Component
      */
     protected function sendRequestPlainJson($method, $path, $data = null)
     {
-        $client = new Client(['baseUrl' => self::URL_FACTURACOM . '/' . $path]);
+        $client = new Client(['baseUrl' => self::URL_PAGARIS . '/' . $path]);
         $request = $client->createRequest();
         $request->setFormat(Client::FORMAT_JSON);
         if ($data) {

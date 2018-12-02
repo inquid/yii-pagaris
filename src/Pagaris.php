@@ -1,5 +1,7 @@
 <?php
 
+namespace inquid\pagaris;
+
 use inquid\pagaris\models\Charge;
 
 /**
@@ -11,13 +13,12 @@ use inquid\pagaris\models\Charge;
 class Pagaris extends HttpClientV3
 {
     /**
-     * @param string $rfc
      * @return array|Charge|Error
      */
-    public function getCharges($rfc)
+    public function getCharges()
     {
         try {
-            return $this->modelResponse($this->sendRequest('get', "clients/$rfc"), Charge::className());
+            return $this->modelResponse($this->sendRequest('get', 'charges'), Charge::className(), true);
         } catch (\Exception $exception) {
             return new Error(500, $exception->getMessage());
         }
