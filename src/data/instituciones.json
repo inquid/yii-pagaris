@@ -1,0 +1,397 @@
+[
+  {
+    "value": "abc_capital",
+    "key": "ABC CAPITAL"
+  },
+  {
+    "value": "accendo_banco",
+    "key": "ACCENDO BANCO"
+  },
+  {
+    "value": "accival",
+    "key": "ACCIVAL"
+  },
+  {
+    "value": "actinver",
+    "key": "ACTINVER"
+  },
+  {
+    "value": "afirme",
+    "key": "AFIRME"
+  },
+  {
+    "value": "akala",
+    "key": "AKALA"
+  },
+  {
+    "value": "american_expres",
+    "key": "AMERICAN EXPRES"
+  },
+  {
+    "value": "asea",
+    "key": "ASEA"
+  },
+  {
+    "value": "asp_integra_opc",
+    "key": "ASP INTEGRA OPC"
+  },
+  {
+    "value": "autofin",
+    "key": "AUTOFIN"
+  },
+  {
+    "value": "axa",
+    "key": "AXA"
+  },
+  {
+    "value": "azteca",
+    "key": "AZTECA"
+  },
+  {
+    "value": "bajio",
+    "key": "BAJIO"
+  },
+  {
+    "value": "banamex",
+    "key": "BANAMEX"
+  },
+  {
+    "value": "banco_famsa",
+    "key": "BANCO FAMSA"
+  },
+  {
+    "value": "banco_finterra",
+    "key": "BANCO FINTERRA"
+  },
+  {
+    "value": "bancomext",
+    "key": "BANCOMEXT"
+  },
+  {
+    "value": "bancoppel",
+    "key": "BANCOPPEL"
+  },
+  {
+    "value": "bancrea",
+    "key": "BANCREA"
+  },
+  {
+    "value": "banjercito",
+    "key": "BANJERCITO"
+  },
+  {
+    "value": "bank_of_america",
+    "key": "BANK OF AMERICA"
+  },
+  {
+    "value": "bankaool",
+    "key": "BANKAOOL"
+  },
+  {
+    "value": "banobras",
+    "key": "BANOBRAS"
+  },
+  {
+    "value": "banorte_ixe",
+    "key": "BANORTE/IXE"
+  },
+  {
+    "value": "banregio",
+    "key": "BANREGIO"
+  },
+  {
+    "value": "bansefi",
+    "key": "BANSEFI"
+  },
+  {
+    "value": "bansi",
+    "key": "BANSI"
+  },
+  {
+    "value": "banxico",
+    "key": "BANXICO"
+  },
+  {
+    "value": "barclays",
+    "key": "BARCLAYS"
+  },
+  {
+    "value": "bbase",
+    "key": "BBASE"
+  },
+  {
+    "value": "bbva_bancomer",
+    "key": "BBVA BANCOMER"
+  },
+  {
+    "value": "bmonex",
+    "key": "BMONEX"
+  },
+  {
+    "value": "caja_pop_mexica",
+    "key": "CAJA POP MEXICA"
+  },
+  {
+    "value": "caja_telefonist",
+    "key": "CAJA TELEFONIST"
+  },
+  {
+    "value": "cb_actinver",
+    "key": "CB ACTINVER"
+  },
+  {
+    "value": "cb_intercam",
+    "key": "CB INTERCAM"
+  },
+  {
+    "value": "ci_bolsa",
+    "key": "CI BOLSA"
+  },
+  {
+    "value": "cibanco",
+    "key": "CIBANCO"
+  },
+  {
+    "value": "cls",
+    "key": "CLS"
+  },
+  {
+    "value": "compartamos",
+    "key": "COMPARTAMOS"
+  },
+  {
+    "value": "consubanco",
+    "key": "CONSUBANCO"
+  },
+  {
+    "value": "credit_suisse",
+    "key": "CREDIT SUISSE"
+  },
+  {
+    "value": "cristobal_colon",
+    "key": "CRISTOBAL COLON"
+  },
+  {
+    "value": "deutsche",
+    "key": "DEUTSCHE"
+  },
+  {
+    "value": "donde",
+    "key": "DONDE"
+  },
+  {
+    "value": "estructuradores",
+    "key": "ESTRUCTURADORES"
+  },
+  {
+    "value": "evercore",
+    "key": "EVERCORE"
+  },
+  {
+    "value": "finamex",
+    "key": "FINAMEX"
+  },
+  {
+    "value": "fincomun",
+    "key": "FINCOMUN"
+  },
+  {
+    "value": "fnd",
+    "key": "FND"
+  },
+  {
+    "value": "fomped",
+    "key": "FOMPED"
+  },
+  {
+    "value": "fondo_fira",
+    "key": "FONDO (FIRA)"
+  },
+  {
+    "value": "gbm",
+    "key": "GBM"
+  },
+  {
+    "value": "hdi_seguros",
+    "key": "HDI SEGUROS"
+  },
+  {
+    "value": "hipotecaria_fed",
+    "key": "HIPOTECARIA FED"
+  },
+  {
+    "value": "hsbc",
+    "key": "HSBC"
+  },
+  {
+    "value": "huastecas",
+    "key": "HUASTECAS"
+  },
+  {
+    "value": "icbc",
+    "key": "ICBC"
+  },
+  {
+    "value": "inbursa",
+    "key": "INBURSA"
+  },
+  {
+    "value": "indeval",
+    "key": "INDEVAL"
+  },
+  {
+    "value": "inmobiliario",
+    "key": "INMOBILIARIO"
+  },
+  {
+    "value": "interacciones",
+    "key": "INTERACCIONES"
+  },
+  {
+    "value": "intercam_banco",
+    "key": "INTERCAM BANCO"
+  },
+  {
+    "value": "invercap",
+    "key": "INVERCAP"
+  },
+  {
+    "value": "invex",
+    "key": "INVEX"
+  },
+  {
+    "value": "jp_morgan",
+    "key": "JP MORGAN"
+  },
+  {
+    "value": "kuspit",
+    "key": "KUSPIT"
+  },
+  {
+    "value": "libertad",
+    "key": "LIBERTAD"
+  },
+  {
+    "value": "masari",
+    "key": "MASARI"
+  },
+  {
+    "value": "mifel",
+    "key": "MIFEL"
+  },
+  {
+    "value": "mizuho_bank",
+    "key": "MIZUHO BANK"
+  },
+  {
+    "value": "monexcb",
+    "key": "MONEXCB"
+  },
+  {
+    "value": "mufg",
+    "key": "MUFG"
+  },
+  {
+    "value": "multiva_banco",
+    "key": "MULTIVA BANCO"
+  },
+  {
+    "value": "multiva_cbolsa",
+    "key": "MULTIVA CBOLSA"
+  },
+  {
+    "value": "nafin",
+    "key": "NAFIN"
+  },
+  {
+    "value": "order",
+    "key": "ORDER"
+  },
+  {
+    "value": "oskndia",
+    "key": "OSKNDIA"
+  },
+  {
+    "value": "pagatodo",
+    "key": "PAGATODO"
+  },
+  {
+    "value": "profuturo",
+    "key": "PROFUTURO"
+  },
+  {
+    "value": "reforma",
+    "key": "REFORMA"
+  },
+  {
+    "value": "s3",
+    "key": "BANCO S3"
+  },
+  {
+    "value": "sabadell",
+    "key": "SABADELL"
+  },
+  {
+    "value": "santander",
+    "key": "SANTANDER"
+  },
+  {
+    "value": "scotiabank",
+    "key": "SCOTIABANK"
+  },
+  {
+    "value": "skandia",
+    "key": "SKANDIA"
+  },
+  {
+    "value": "sofiexpress",
+    "key": "SOFIEXPRESS"
+  },
+  {
+    "value": "stp",
+    "key": "STP"
+  },
+  {
+    "value": "sura",
+    "key": "SURA"
+  },
+  {
+    "value": "transfer",
+    "key": "TRANSFER"
+  },
+  {
+    "value": "unagra",
+    "key": "UNAGRA"
+  },
+  {
+    "value": "valmex",
+    "key": "VALMEX"
+  },
+  {
+    "value": "value",
+    "key": "VALUE"
+  },
+  {
+    "value": "ve_por_mas",
+    "key": "VE POR MAS"
+  },
+  {
+    "value": "vector",
+    "key": "VECTOR"
+  },
+  {
+    "value": "volkswagen",
+    "key": "VOLKSWAGEN"
+  },
+  {
+    "value": "zurich",
+    "key": "ZURICH"
+  },
+  {
+    "value": "zurichvi",
+    "key": "ZURICHVI"
+  },
+  {
+    "value": ""
+  }
+]
