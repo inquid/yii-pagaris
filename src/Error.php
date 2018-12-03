@@ -6,7 +6,7 @@
  * Time: 1:10 AM
  */
 
-namespace inquid\pagaris\models;
+namespace inquid\pagaris;
 
 
 /**
