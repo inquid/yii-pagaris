@@ -10,7 +10,6 @@ namespace inquid\pagaris\models;
 
 
 use yii\base\Model;
-use inquid\pagaris\models\Payment;
 
 /**
  * Class Transfer
@@ -20,5 +19,18 @@ use inquid\pagaris\models\Payment;
  */
 class Transfer extends Model
 {
+    public $alias;
+    public $payment;
+    public $created_at;
+    public $updated_at;
+    public $payments_count;
+    public $payments_total;
+    public $total;
+    public $status;
 
+    public $funding = [];
+
+    public $payments = [];
+
+    public $sandbox;
 }

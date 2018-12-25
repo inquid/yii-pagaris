@@ -41,6 +41,7 @@ class HttpClientV3 extends Component
     {
         $client = new Client(['baseUrl' => self::URL_PAGARIS . '/' . $this->API_VERSION . '/' . $path]);
         $request = $client->createRequest();
+        $request->setFormat(Client::FORMAT_JSON);
 
         if ($data) {
             $request->setData($data);
@@ -80,7 +81,7 @@ class HttpClientV3 extends Component
      */
     protected function modelResponse($response, $className, $classNamePlural, $isList = false)
     {
-        \Yii::info(json_encode($response));
+        \Yii::info('Response -> '.Json::encode($response));
         if ($response && ($headers = $response->getHeaders())) {
             if ($headers->get('http-code') == 200 || $headers->get('http-code') == 201) {
                 $content = Json::decode($response->getContent());
