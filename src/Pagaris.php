@@ -6,6 +6,7 @@ use inquid\pagaris\models\Charge;
 use inquid\pagaris\models\Payment;
 use inquid\pagaris\models\Recipient;
 use inquid\pagaris\models\Transfer;
+use inquid\pagaris\HttpClientV3;
 
 /**
  * Created by PhpStorm.
