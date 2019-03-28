@@ -17,6 +17,7 @@ use yii\base\Model;
  * @property  string $alias
  * @property  string $account_type
  * @property  string $account_number
+ * @property  string $email
  * @property  string $mobile_phone
  * @property  string $institution
  * @property  string $created_at
